@@ -328,7 +328,7 @@ main{
     justify-content: space-around;
   }
   .article-abt{
-    border-bottom:1px solid #000 ;
+    border-bottom:1px solid #000;
     text-align: center;
     width: 32%;
     padding: 10px 0px;
@@ -373,13 +373,14 @@ main{
     text-align: center;
 }
 .footer-content h3{
-  color: #fff;
+    color: #fff;
     font-size: 1.8rem;
     padding-bottom: 10px;
     line-height: 3rem;
+    text-decoration: none;
 }
 .footer-content p{
-  color: #fff;
+    color: #fff;
     margin: 5px auto;
     line-height: 28px;
     font-size: 14px;
@@ -401,7 +402,7 @@ main{
     color: #fff;
 }
 .socials a:hover{
-  color: #fff;
+    color: #fff;
 }
 .footer-bottom{
     background-color: transparent;
