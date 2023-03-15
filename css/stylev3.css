@@ -3,12 +3,11 @@
     padding: 0px;
 }
 .centriranje{
-    width: 60%;
-    margin: 0px auto;
+    width: 70%;
+    margin: 20px auto;
 }
 
 #ath-space{
-    border: 5px solid #D65A31;
     height: 90%;
     width: 100%;
     display: flex;
@@ -26,16 +25,18 @@
     width: 50%;
     text-align: center;
     text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+    padding: 10px;
 }
 .txt-blc{
-    color: #fff;
+    color: #000;
 }
 #ath-text h1{
     margin: 15px 0px;
+    text-decoration: underline;
 }
 #ath-text h3{
     margin: 10px 0px;
 }
 #ath-text p {
-    font-size: 35px;
+    font-size: 30px;
 }
