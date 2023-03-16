@@ -257,6 +257,7 @@ main{
   }
   .review:hover{
     transform: scale(1.03);
+    cursor: pointer;
   }
   .underline-p{
     text-decoration: underline;
